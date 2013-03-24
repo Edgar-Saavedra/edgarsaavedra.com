@@ -1,8 +1,6 @@
 
 		<aside>
 
-		
-		<div class="post_box">
 
 			<h4>Latest Post</h4>
 			
@@ -38,7 +36,6 @@
 		    <!-- All this stuff in here only shows up if you DON'T have any widgets active in this zone -->
 		
 		<?php endif; ?>
-		</div> <!-- END Latest Posts -->
 
 	</aside>
 </div>
